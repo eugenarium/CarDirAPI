@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarDirAPI", "CarDirAPI.csproj", "{40CBA2D2-05C8-4F56-B0AE-590565DCAE1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40CBA2D2-05C8-4F56-B0AE-590565DCAE1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40CBA2D2-05C8-4F56-B0AE-590565DCAE1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40CBA2D2-05C8-4F56-B0AE-590565DCAE1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40CBA2D2-05C8-4F56-B0AE-590565DCAE1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E710A91-301A-424A-B0AA-918310C07B44}
+	EndGlobalSection
+EndGlobal
