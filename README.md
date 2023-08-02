@@ -22,14 +22,16 @@
 - .NET 7.0
 - ASP.NET
 - Entity Framework
+- SQLite
 
 
 # Запуск проекта
 Для запуска выполните следующие шаги:
 1. Установите [.NET Core SDK](https://dotnet.microsoft.com/en-us/download)
-2. Клонируйте репозиторий
-3. Перейдите в каталог проекта
-4. Выполните команду 
+2. Установите [SQLite](https://www.sqlite.org/index.html)
+3. Клонируйте репозиторий
+4. Перейдите в каталог проекта
+5. Выполните команду
 	
 	```dotnet run --launch-profile https```
 
